@@ -1,0 +1,30 @@
+{
+    "packages": {
+        "vendor/package-name": {
+            "dev-master": { 
+                "name": "tiennm/demo",
+                "version": "2.0",
+                "dist": {
+                    "url": "https://github.com/tiennm1502/hoc-git/archive/2.0.zip",
+                    "type": "zip"
+                }
+            },
+            "1.0": { 
+                "name": "tiennm/demo",
+                "version": "1.0",
+                "dist": {
+                    "url": "https://github.com/tiennm1502/hoc-git/archive/1.0.zip",
+                    "type": "zip"
+                }
+            }
+            "2.0": { 
+                "name": "tiennm/demo",
+                "version": "2.0",
+                "dist": {
+                    "url": "https://github.com/tiennm1502/hoc-git/archive/2.0.zip",
+                    "type": "zip"
+                }
+            }
+        }
+    }
+}
